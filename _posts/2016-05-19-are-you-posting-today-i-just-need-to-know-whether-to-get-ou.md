@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-19T17:30:43.518Z'
-dateModified: '2016-05-19T17:29:58.214Z'
+datePublished: '2016-05-19T18:00:51.958Z'
+dateModified: '2016-05-19T18:00:40.826Z'
 title: Are you posting today?
 author:
   - name: ''
@@ -20,4 +20,6 @@ _type: Article
 
 ---
 ## Are you posting today?
+
+I just need to know whether to get out of bed or not.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e47dfc34-2134-4638-8e4a-52156747a5c7.jpg)
