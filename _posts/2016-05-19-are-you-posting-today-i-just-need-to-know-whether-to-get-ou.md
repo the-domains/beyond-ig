@@ -1,13 +1,12 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-19T17:27:59.000Z'
-dateModified: '2016-05-19T16:40:54.439Z'
+datePublished: '2016-05-19T17:28:29.951Z'
+dateModified: '2016-05-19T17:28:05.734Z'
 title: 'Are you posting today? I just need to know whether to get out of bed or not '
 author:
   - name: ''
@@ -16,7 +15,8 @@ sourcePath: _posts/2016-05-19-are-you-posting-today-i-just-need-to-know-whether-
 authors: []
 publisher: null
 starred: false
-_type: Blurb
+url: are-you-posting-today-i-just-need-to-know-whether-to-get-ou/index.html
+_type: Article
 
 ---
 ## Are you posting today? I just need to know whether to get out of bed or not ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e47dfc34-2134-4638-8e4a-52156747a5c7.jpg)
