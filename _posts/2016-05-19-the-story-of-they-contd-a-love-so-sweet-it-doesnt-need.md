@@ -6,16 +6,16 @@ isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-19T15:10:25.365Z'
-dateModified: '2016-05-19T15:10:24.358Z'
+datePublished: '2016-05-19T15:15:22.815Z'
+dateModified: '2016-05-19T15:15:15.126Z'
 title: "The story of They (cont'd) A love so sweet, it doesn't need sugar. So strong, it weakens the defenses. He pours himself into her. She takes him as he is. Together, they can be described as addictive and consumed. Apart, they're cold and empty. "
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-05-19-the-story-of-they-contd-a-love-so-sweet-it-doesnt-need.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-19-the-story-of-they-contd-a-love-so-sweet-it-doesnt-need.md
 _type: Blurb
 
 ---
