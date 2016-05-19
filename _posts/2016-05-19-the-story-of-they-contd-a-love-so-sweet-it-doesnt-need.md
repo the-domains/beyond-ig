@@ -6,8 +6,8 @@ isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-19T15:16:42.932Z'
-dateModified: '2016-05-19T15:15:28.150Z'
+datePublished: '2016-05-19T15:17:08.036Z'
+dateModified: '2016-05-19T15:16:43.968Z'
 title: "The story of They (cont'd) A love so sweet, it doesn't need sugar. So strong, it weakens the defenses. He pours himself into her. She takes him as he is. Together, they can be described as addictive and consumed. Apart, they're cold and empty. "
 author:
   - name: ''
@@ -19,4 +19,6 @@ starred: false
 _type: Blurb
 
 ---
-# The story of They (cont'd) A love so sweet, it doesn't need sugar. So strong, it weakens the defenses. He pours himself into her. She takes him as he is. Together, they can be described as addictive and consumed. Apart, they're cold and empty. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d547b5fed5c5b07135cbe84f47f2ce46858272ac.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d547b5fed5c5b07135cbe84f47f2ce46858272ac.jpg)
+
+# The story of They (cont'd) A love so sweet, it doesn't need sugar. So strong, it weakens the defenses. He pours himself into her. She takes him as he is. Together, they can be described as addictive and consumed. Apart, they're cold and empty.
