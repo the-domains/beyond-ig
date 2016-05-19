@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-19T18:42:51.013Z'
-dateModified: '2016-05-19T18:42:45.740Z'
+datePublished: '2016-05-19T18:50:12.746Z'
+dateModified: '2016-05-19T18:49:49.590Z'
 title: Are you posting today?
 author:
   - name: ''
